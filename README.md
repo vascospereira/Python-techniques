@@ -1,2 +1,2 @@
 # Python-techniques
-Some python tech[niques]
+Some python [tech]niques
